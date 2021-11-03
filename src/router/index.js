@@ -4,6 +4,8 @@ Vue.use(Router)
 
 import Home from '@/views/home/Home.vue'
 
+
+
 const router = new Router({
     mode:"history",
     routes:[{
